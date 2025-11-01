@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6aa999-097b-4a53-9b97-e6f1c317a852" name="Changes" comment="" />
+    <list default="true" id="db6aa999-097b-4a53-9b97-e6f1c317a852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PyATB5xLearening.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics/Lab001_PY_Hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics/Lab02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics/Lab_nov1st_PYBasic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics/lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/Lab_04_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_008_dynamical_typed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_09_lLVAR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_14-math_Cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_Var_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Ex_02/lab_Var_Types_rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="34qu4tYVnQaIehw6bs4QPbOH9cv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,9 +55,86 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.Lab001_PY_Hello_world.executor": "Run",
+    "Python.Lab_04_variables.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab_008_dynamical_typed.executor": "Run",
+    "Python.lab_10.executor": "Run",
+    "Python.lab_11.executor": "Run",
+    "Python.lab_12.executor": "Run",
+    "Python.lab_13.executor": "Run",
+    "Python.lab_14-math_Cal.executor": "Run",
+    "Python.lab_Var_Types_rules.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/satya/PycharmProjects/PyATB5xLearening/Nov/Ex_02"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearening\Nov\Ex_02" />
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearening\Nov" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearening\Nov\Ex_02" />
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearening\Nov" />
+      <recent name="C:\Users\satya\PycharmProjects\PyATB5xLearening\Nov\Ex_01_11_2025_Python_Basics" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab001_PY_Hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearening" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics/Lab001_PY_Hello_world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearening" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/Ex_01_11_2025_Python_Basics/lab003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab003" />
+        <item itemvalue="Python.Lab001_PY_Hello_world" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -37,5 +151,16 @@
       <updated>1761953234786</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
